@@ -93,7 +93,7 @@ python adim_8_portfoy_ve_risk_gercek_faktorler.py
 │   ├── adim_7_turevler.py
 │   ├── adim_8_portfoy_ve_risk_gercek_faktorler.py
 │   ├── adim_9_mikroyapi_ohlcv.py
-│   └── adim_10_arastirma_ve_ml_dsr_gercek.py
+│   └── adim_10_arastirma_ve_ml.py
 │
 ├── 🛠️ Yardımcı Modüller
 │   ├── veri_periyot.py                      # CSV veri yükleme
