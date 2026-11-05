@@ -183,6 +183,9 @@ python adim_8_portfoy_ve_risk_gercek_faktorler.py
 
 **Gerçek Faktör Verisi:**
 `Emerging_5_Factors.csv` dosyasından 1989-2026 aylık faktör verileri otomatik yüklenir.
+ Dikkat bizim ülkemiz için bu verilere ulaşamadım yada hiç bu şekilde bir çalışma görmedim.
+ Verilerin bulunduğu çalışma: https://mba.tuck.dartmouth.edu/pages/faculty/Ken.french/data_library.html 
+ Fama-French faktörleri (1989-2026)
 
 ### Level 9: Mikroyapı
 
