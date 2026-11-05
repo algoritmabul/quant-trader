@@ -33,11 +33,11 @@ Bu proje, kantitatif finansın temel kavramlarını **teorik formüller** ve **p
 | **Level 3** | Lineer Cebir | Kovaryans Matrisi, PCA, Ledoit-Wolf Shrinkage | `adim_3_lineer_cebir.py` |
 | **Level 4** | Kalkülüs & Optimizasyon | Taylor, Gradient Descent, Lagrange, Markowitz | `adim_4_kalkulus_optimizasyon.py` |
 | **Level 5** | Zaman Serileri | ADF Testi, Eşbütünleşme, GARCH(1,1), Half-Life | `adim_5_zaman_serileri.py` |
-| **Level 6** | Stokastik Kalkülüs | Brownian Hareket, Itô Lemması, Monte Carlo | `adim_6_stokastik_kalkulus_duzeltilmis.py` |
+| **Level 6** | Stokastik Kalkülüs | Brownian Hareket, Itô Lemması, Monte Carlo | `adim_6_stokastik_kalkulus.py` |
 | **Level 7** | Türev Araçlar | Black-Scholes, Yunanlar, Örtülü Volatilite | `adim_7_turevler.py` |
-| **Level 8** | Portföy & Risk | CAPM, Fama-French 5-Faktör, VaR/ES, cvxpy | `adim_8_portfoy_ve_risk_gercek_faktorler.py` |
-| **Level 9** | Mikroyapı | Corwin-Schultz, CLV, VWAP/TWAP, Impact | `adim_9_mikroyapi_ohlcv.py` |
-| **Level 10** | Araştırma & ML | Walk-Forward, Deflated Sharpe, HMM Rejimleri | `adim_10_arastirma_ve_ml_dsr_gercek.py` |
+| **Level 8** | Portföy & Risk | CAPM, Fama-French 5-Faktör, VaR/ES, cvxpy | `adim_8_portfoy_ve_risk.py` |
+| **Level 9** | Mikroyapı | Corwin-Schultz, CLV, VWAP/TWAP, Impact | `adim_9_mikroyapi_icra.py` |
+| **Level 10** | Araştırma & ML | Walk-Forward, Deflated Sharpe, HMM Rejimleri | `adim_10_arastirma_ve_ml.py` |
 
 ## 💻 Kullanım
 
